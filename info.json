@@ -24,7 +24,7 @@
         "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B":"DeepSeek-R1-0528-Qwen3-8B",
         "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B":"DeepSeek-R1-Distill-Qwen-7B"
       },
-      "default":"GLM-4-9B-0414"
+      "default":"THUDM/GLM-4-9B-0414"
     },
     {
       "key": "apiKey",

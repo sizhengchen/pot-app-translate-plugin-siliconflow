@@ -2,7 +2,7 @@ async function translate(text, from, to, options) {
     const { config, utils } = options;
     const { tauriFetch: fetch } = utils;
 
-    let { apiKey, model = "GLM-4-9B-0414" } = config;
+    let { apiKey, model = "THUDM/GLM-4-9B-0414" } = config;
     
     // 设置默认请求路径
     const requestPath = "https://api.siliconflow.cn/v1/chat/completions";
